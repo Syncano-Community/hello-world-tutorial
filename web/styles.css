@@ -1,0 +1,19 @@
+body {
+  background: #0B0F15;
+}
+
+@media (max-width: 980px) {
+  .mdl-card {
+    width: 100%;
+  }
+}
+
+.mdl-cell {
+  fill: #ffffff;
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  max-width: 330px;
+}
